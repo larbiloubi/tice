@@ -165,5 +165,19 @@
         "duration": "2h 10:04",
         "likes": "20k",
         "title": "تعلم css بالكامل في فيديو واحد فقط | كورس css كامل للمبتدئين"
+    },
+    {
+        "course": "js",
+        "lessons": 32,
+        "id": "1672908601",
+        "youtuber": "Hassouna Academy",
+        "profile": "https://yt3.ggpht.com/ytc/AMLnZu_zX7QzxfQerBqF-1G5VOAeFrKmbcnp-M8XZVjKPQ=s88-c-k-c0xffffffff-no-rj-mo",
+        "channelURL": "https://www.youtube.com/@HassounaAcademy",
+        "about": "programming",
+        "videoURL": "https://youtu.be/lcEj0WH5xvQ",
+        "thumbnail": "https://i3.ytimg.com/vi/lcEj0WH5xvQ/maxresdefault.jpg",
+        "duration": "11:27",
+        "likes": "2.5k",
+        "title": "01 javascript جافا سكريبت intro مقدمة"
     }
 ]
