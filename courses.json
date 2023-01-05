@@ -151,5 +151,19 @@
         "duration": "13:30",
         "likes": "657",
         "title": "#10 كورس html كامل بالعربي | الصور img"
+    },
+    {
+        "course": "html",
+        "lessons": 28,
+        "id": "1672605188",
+        "youtuber": "Abdelrahman Gamal",
+        "profile": "https://yt3.ggpht.com/ytc/AMLnZu8tdCZhvTkbfKhqvLfGLSx-KisbFiGGhL21VDbJcA=s88-c-k-c0x00ffffff-no-rj",
+        "channelURL": "https://www.youtube.com/@AbdelrahmanGamal",
+        "about": "programming",
+        "videoURL": "https://youtu.be/Z-5QVutAEW4",
+        "thumbnail": "https://i3.ytimg.com/vi/Z-5QVutAEW4/maxresdefault.jpg",
+        "duration": "2h 10:04",
+        "likes": "20k",
+        "title": "تعلم css بالكامل في فيديو واحد فقط | كورس css كامل للمبتدئين"
     }
 ]
